@@ -17,3 +17,13 @@ The best-selling Magento 2 extensions that helps you in terms of sales, user-exp
 [Magento 2 hCaptcha](https://magecomp.com/magento-2-hcaptcha.html)
 
 [For More](https://magecomp.com/magento-2-extensions.html)
+
+**You can also checkout FREEBIES extension here:**
+
+[Magento 2 Extra Fee](https://github.com/magecomp/magento2-extra-fee)
+
+[Magento 2 Image Clean](https://github.com/magecomp/magento-2-image-clean)
+
+[Magento 2 Review Reminder](https://github.com/magecomp/magento-review-reminder)
+
+[Magento 2 WhatsApp Notification with API](https://github.com/magecomp/magento-2-whatsapp-notification-with-api)

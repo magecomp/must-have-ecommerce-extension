@@ -1,6 +1,6 @@
 # Must Have eCommerce Extensions for Magento 2 Store by MageComp
 
-The best-selling Magento 2 extensions that helps you in terms of sales, user-experience and enhance your store. 
+The best-selling Magento 2 extensions by MageComp that helps you in terms of sales, user-experience and enhance your store. 
 
 * [Magento 2 SMS Notification Pro](https://magecomp.com/magento-2-sms-notification-pro.html)
 
